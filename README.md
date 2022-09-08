@@ -1,2 +1,2 @@
 # project1
-dummy application and dummy project
+dummy application and dummy project django
